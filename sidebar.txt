@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ptn:home|Door43 (ptn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ptn|d43-ptn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ptn/archive/master.zip|d43-ptn.zip]]
+
+**Recent Changes**
+{{changes>ns = ptn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ptn|Ethnologue data]]
+
